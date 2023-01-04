@@ -51,5 +51,4 @@ Com uma prévia avaliação dos ***OKRs*** a serem atingidos pelo estudo, foi de
 ![Anual](https://user-images.githubusercontent.com/116115002/210649098-0d13e2a6-d11a-4b85-9638-a764507b50e3.JPG)
 ![Tendência](https://user-images.githubusercontent.com/116115002/210649129-66288e19-34e0-419a-b5c4-50fc1f6b1859.JPG)
 
-
-
+https://app.powerbi.com/links/Gmz3pBPNXm?ctid=fad83218-94c5-4312-8eae-b17688e53b4f&pbi_source=linkShare
