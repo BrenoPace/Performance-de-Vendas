@@ -20,7 +20,7 @@ Na sequência foram realizados os relacionamentos das tabelas e criação da tab
 
 ![Relacionamentos](https://user-images.githubusercontent.com/116115002/210647192-46b0d0f6-751d-4239-993e-6617f168357d.JPG)
 
-Para o desenvolvimento do layout de apresentação do dashboard criei no ***Figma*** um design exclusivo de acordo com as necessidades previamente avaliadas
+Para o desenvolvimento do layout de apresentação do dashboard criei no ***Figma*** um design exclusivo de acordo com as necessidades previamente avaliadas.
 
 ![Figma](https://user-images.githubusercontent.com/116115002/210648904-259363f6-c232-4255-89ea-ab741b97aaa7.JPG)
 
